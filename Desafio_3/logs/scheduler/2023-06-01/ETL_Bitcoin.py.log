@@ -1,0 +1,700 @@
+[2023-06-01 14:47:31,929] {processor.py:153} INFO - Started process (PID=172) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:47:31,930] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:47:31,932] {logging_mixin.py:115} INFO - [2023-06-01 14:47:31,932] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:47:32,835] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:47:32,888] {logging_mixin.py:115} INFO - [2023-06-01 14:47:32,887] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:47:32,956] {logging_mixin.py:115} INFO - [2023-06-01 14:47:32,956] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:47:33,008] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.085 seconds
+[2023-06-01 14:47:43,154] {processor.py:153} INFO - Started process (PID=179) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:47:43,156] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:47:43,158] {logging_mixin.py:115} INFO - [2023-06-01 14:47:43,158] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:47:44,827] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:47:44,936] {logging_mixin.py:115} INFO - [2023-06-01 14:47:44,934] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:47:45,067] {logging_mixin.py:115} INFO - [2023-06-01 14:47:45,067] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:47:45,139] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.994 seconds
+[2023-06-01 14:47:55,220] {processor.py:153} INFO - Started process (PID=185) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:47:55,221] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:47:55,223] {logging_mixin.py:115} INFO - [2023-06-01 14:47:55,223] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:47:55,798] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:47:55,830] {logging_mixin.py:115} INFO - [2023-06-01 14:47:55,829] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:47:55,876] {logging_mixin.py:115} INFO - [2023-06-01 14:47:55,876] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:47:55,905] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.689 seconds
+[2023-06-01 14:48:06,000] {processor.py:153} INFO - Started process (PID=191) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:06,001] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:48:06,003] {logging_mixin.py:115} INFO - [2023-06-01 14:48:06,003] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:06,479] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:06,513] {logging_mixin.py:115} INFO - [2023-06-01 14:48:06,512] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:48:06,546] {logging_mixin.py:115} INFO - [2023-06-01 14:48:06,546] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:48:06,566] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.570 seconds
+[2023-06-01 14:48:16,653] {processor.py:153} INFO - Started process (PID=197) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:16,654] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:48:16,655] {logging_mixin.py:115} INFO - [2023-06-01 14:48:16,655] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:17,302] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:17,337] {logging_mixin.py:115} INFO - [2023-06-01 14:48:17,337] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:48:17,378] {logging_mixin.py:115} INFO - [2023-06-01 14:48:17,378] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:48:17,399] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.750 seconds
+[2023-06-01 14:48:27,486] {processor.py:153} INFO - Started process (PID=203) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:27,487] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:48:27,488] {logging_mixin.py:115} INFO - [2023-06-01 14:48:27,488] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:28,126] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:28,162] {logging_mixin.py:115} INFO - [2023-06-01 14:48:28,162] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:48:28,198] {logging_mixin.py:115} INFO - [2023-06-01 14:48:28,197] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:48:28,218] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.735 seconds
+[2023-06-01 14:48:38,318] {processor.py:153} INFO - Started process (PID=209) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:38,320] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:48:38,321] {logging_mixin.py:115} INFO - [2023-06-01 14:48:38,321] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:38,848] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:38,883] {logging_mixin.py:115} INFO - [2023-06-01 14:48:38,883] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:48:38,918] {logging_mixin.py:115} INFO - [2023-06-01 14:48:38,918] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:48:38,938] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.624 seconds
+[2023-06-01 14:48:49,034] {processor.py:153} INFO - Started process (PID=215) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:49,036] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:48:49,037] {logging_mixin.py:115} INFO - [2023-06-01 14:48:49,037] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:49,657] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:49,717] {logging_mixin.py:115} INFO - [2023-06-01 14:48:49,716] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:48:49,780] {logging_mixin.py:115} INFO - [2023-06-01 14:48:49,780] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:48:49,813] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.782 seconds
+[2023-06-01 14:48:59,906] {processor.py:153} INFO - Started process (PID=221) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:48:59,907] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:48:59,909] {logging_mixin.py:115} INFO - [2023-06-01 14:48:59,909] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:00,668] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:00,720] {logging_mixin.py:115} INFO - [2023-06-01 14:49:00,720] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:49:00,770] {logging_mixin.py:115} INFO - [2023-06-01 14:49:00,769] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:49:00,812] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.909 seconds
+[2023-06-01 14:49:10,922] {processor.py:153} INFO - Started process (PID=227) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:10,923] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:49:10,926] {logging_mixin.py:115} INFO - [2023-06-01 14:49:10,926] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:11,463] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:11,498] {logging_mixin.py:115} INFO - [2023-06-01 14:49:11,497] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:49:11,532] {logging_mixin.py:115} INFO - [2023-06-01 14:49:11,532] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:49:11,553] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.636 seconds
+[2023-06-01 14:49:21,643] {processor.py:153} INFO - Started process (PID=233) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:21,645] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:49:21,646] {logging_mixin.py:115} INFO - [2023-06-01 14:49:21,646] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:22,411] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:22,479] {logging_mixin.py:115} INFO - [2023-06-01 14:49:22,477] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:49:22,559] {logging_mixin.py:115} INFO - [2023-06-01 14:49:22,559] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:49:22,596] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.956 seconds
+[2023-06-01 14:49:32,704] {processor.py:153} INFO - Started process (PID=239) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:32,705] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:49:32,706] {logging_mixin.py:115} INFO - [2023-06-01 14:49:32,706] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:33,304] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:33,335] {logging_mixin.py:115} INFO - [2023-06-01 14:49:33,334] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:49:33,366] {logging_mixin.py:115} INFO - [2023-06-01 14:49:33,365] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:49:33,384] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.683 seconds
+[2023-06-01 14:49:43,473] {processor.py:153} INFO - Started process (PID=245) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:43,475] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:49:43,476] {logging_mixin.py:115} INFO - [2023-06-01 14:49:43,476] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:43,997] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:44,030] {logging_mixin.py:115} INFO - [2023-06-01 14:49:44,029] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:49:44,064] {logging_mixin.py:115} INFO - [2023-06-01 14:49:44,064] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:49:44,085] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.616 seconds
+[2023-06-01 14:49:54,173] {processor.py:153} INFO - Started process (PID=251) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:54,174] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:49:54,176] {logging_mixin.py:115} INFO - [2023-06-01 14:49:54,176] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:54,822] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:49:54,880] {logging_mixin.py:115} INFO - [2023-06-01 14:49:54,879] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:49:54,948] {logging_mixin.py:115} INFO - [2023-06-01 14:49:54,948] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:49:54,973] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.804 seconds
+[2023-06-01 14:50:05,147] {processor.py:153} INFO - Started process (PID=257) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:05,148] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:50:05,150] {logging_mixin.py:115} INFO - [2023-06-01 14:50:05,149] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:06,042] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:06,107] {logging_mixin.py:115} INFO - [2023-06-01 14:50:06,106] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:50:06,180] {logging_mixin.py:115} INFO - [2023-06-01 14:50:06,180] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:50:06,214] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.070 seconds
+[2023-06-01 14:50:16,312] {processor.py:153} INFO - Started process (PID=263) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:16,314] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:50:16,318] {logging_mixin.py:115} INFO - [2023-06-01 14:50:16,317] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:17,461] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:17,521] {logging_mixin.py:115} INFO - [2023-06-01 14:50:17,521] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:50:17,600] {logging_mixin.py:115} INFO - [2023-06-01 14:50:17,600] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:50:17,644] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.340 seconds
+[2023-06-01 14:50:27,764] {processor.py:153} INFO - Started process (PID=269) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:27,765] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:50:27,766] {logging_mixin.py:115} INFO - [2023-06-01 14:50:27,766] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:28,351] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:28,390] {logging_mixin.py:115} INFO - [2023-06-01 14:50:28,389] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:50:28,426] {logging_mixin.py:115} INFO - [2023-06-01 14:50:28,425] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:50:28,450] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.689 seconds
+[2023-06-01 14:50:38,648] {processor.py:153} INFO - Started process (PID=275) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:38,650] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:50:38,653] {logging_mixin.py:115} INFO - [2023-06-01 14:50:38,653] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:39,480] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:39,517] {logging_mixin.py:115} INFO - [2023-06-01 14:50:39,515] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:50:39,578] {logging_mixin.py:115} INFO - [2023-06-01 14:50:39,578] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:50:39,661] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.017 seconds
+[2023-06-01 14:50:49,760] {processor.py:153} INFO - Started process (PID=281) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:49,762] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:50:49,763] {logging_mixin.py:115} INFO - [2023-06-01 14:50:49,763] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:50,488] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:50:50,544] {logging_mixin.py:115} INFO - [2023-06-01 14:50:50,543] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:50:50,599] {logging_mixin.py:115} INFO - [2023-06-01 14:50:50,598] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:50:50,630] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.876 seconds
+[2023-06-01 14:51:00,763] {processor.py:153} INFO - Started process (PID=287) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:00,764] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:51:00,765] {logging_mixin.py:115} INFO - [2023-06-01 14:51:00,765] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:01,601] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:01,640] {logging_mixin.py:115} INFO - [2023-06-01 14:51:01,639] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:51:01,691] {logging_mixin.py:115} INFO - [2023-06-01 14:51:01,691] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:51:01,721] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.961 seconds
+[2023-06-01 14:51:11,846] {processor.py:153} INFO - Started process (PID=293) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:11,847] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:51:11,850] {logging_mixin.py:115} INFO - [2023-06-01 14:51:11,849] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:12,586] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:12,621] {logging_mixin.py:115} INFO - [2023-06-01 14:51:12,621] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:51:12,656] {logging_mixin.py:115} INFO - [2023-06-01 14:51:12,656] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:51:12,680] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.843 seconds
+[2023-06-01 14:51:22,807] {processor.py:153} INFO - Started process (PID=299) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:22,810] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:51:22,813] {logging_mixin.py:115} INFO - [2023-06-01 14:51:22,812] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:23,509] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:23,553] {logging_mixin.py:115} INFO - [2023-06-01 14:51:23,552] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:51:23,599] {logging_mixin.py:115} INFO - [2023-06-01 14:51:23,599] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:51:23,626] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.824 seconds
+[2023-06-01 14:51:33,763] {processor.py:153} INFO - Started process (PID=305) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:33,765] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:51:33,767] {logging_mixin.py:115} INFO - [2023-06-01 14:51:33,766] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:34,422] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:34,467] {logging_mixin.py:115} INFO - [2023-06-01 14:51:34,467] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:51:34,522] {logging_mixin.py:115} INFO - [2023-06-01 14:51:34,522] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:51:34,562] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.806 seconds
+[2023-06-01 14:51:44,703] {processor.py:153} INFO - Started process (PID=311) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:44,704] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:51:44,706] {logging_mixin.py:115} INFO - [2023-06-01 14:51:44,706] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:45,571] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:45,629] {logging_mixin.py:115} INFO - [2023-06-01 14:51:45,628] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:51:45,705] {logging_mixin.py:115} INFO - [2023-06-01 14:51:45,704] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:51:45,738] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.040 seconds
+[2023-06-01 14:51:55,861] {processor.py:153} INFO - Started process (PID=317) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:55,863] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:51:55,864] {logging_mixin.py:115} INFO - [2023-06-01 14:51:55,864] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:56,633] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:51:56,683] {logging_mixin.py:115} INFO - [2023-06-01 14:51:56,682] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:51:56,737] {logging_mixin.py:115} INFO - [2023-06-01 14:51:56,737] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:51:56,766] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.913 seconds
+[2023-06-01 14:52:06,868] {processor.py:153} INFO - Started process (PID=323) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:06,869] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:52:06,871] {logging_mixin.py:115} INFO - [2023-06-01 14:52:06,871] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:07,666] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:07,717] {logging_mixin.py:115} INFO - [2023-06-01 14:52:07,716] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:52:07,773] {logging_mixin.py:115} INFO - [2023-06-01 14:52:07,773] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:52:07,805] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.945 seconds
+[2023-06-01 14:52:17,942] {processor.py:153} INFO - Started process (PID=329) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:17,943] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:52:17,944] {logging_mixin.py:115} INFO - [2023-06-01 14:52:17,944] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:18,632] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:18,681] {logging_mixin.py:115} INFO - [2023-06-01 14:52:18,680] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:52:18,720] {logging_mixin.py:115} INFO - [2023-06-01 14:52:18,720] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:52:18,744] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.807 seconds
+[2023-06-01 14:52:28,876] {processor.py:153} INFO - Started process (PID=335) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:28,878] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:52:28,880] {logging_mixin.py:115} INFO - [2023-06-01 14:52:28,880] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:29,764] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:29,806] {logging_mixin.py:115} INFO - [2023-06-01 14:52:29,805] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:52:29,867] {logging_mixin.py:115} INFO - [2023-06-01 14:52:29,867] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:52:29,901] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.036 seconds
+[2023-06-01 14:52:40,003] {processor.py:153} INFO - Started process (PID=341) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:40,005] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:52:40,007] {logging_mixin.py:115} INFO - [2023-06-01 14:52:40,007] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:40,697] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:40,743] {logging_mixin.py:115} INFO - [2023-06-01 14:52:40,743] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:52:40,795] {logging_mixin.py:115} INFO - [2023-06-01 14:52:40,795] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:52:40,821] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.823 seconds
+[2023-06-01 14:52:50,961] {processor.py:153} INFO - Started process (PID=347) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:50,962] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:52:50,964] {logging_mixin.py:115} INFO - [2023-06-01 14:52:50,963] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:51,749] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:52:51,786] {logging_mixin.py:115} INFO - [2023-06-01 14:52:51,786] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:52:51,823] {logging_mixin.py:115} INFO - [2023-06-01 14:52:51,822] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:52:51,846] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.894 seconds
+[2023-06-01 14:53:01,973] {processor.py:153} INFO - Started process (PID=353) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:01,976] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:53:01,977] {logging_mixin.py:115} INFO - [2023-06-01 14:53:01,977] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:02,776] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:02,823] {logging_mixin.py:115} INFO - [2023-06-01 14:53:02,822] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:53:02,870] {logging_mixin.py:115} INFO - [2023-06-01 14:53:02,870] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:53:02,896] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.929 seconds
+[2023-06-01 14:53:13,044] {processor.py:153} INFO - Started process (PID=359) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:13,046] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:53:13,047] {logging_mixin.py:115} INFO - [2023-06-01 14:53:13,047] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:13,965] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:14,019] {logging_mixin.py:115} INFO - [2023-06-01 14:53:14,019] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:53:14,075] {logging_mixin.py:115} INFO - [2023-06-01 14:53:14,074] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:53:14,099] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.062 seconds
+[2023-06-01 14:53:24,204] {processor.py:153} INFO - Started process (PID=365) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:24,205] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:53:24,207] {logging_mixin.py:115} INFO - [2023-06-01 14:53:24,207] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:25,014] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:25,061] {logging_mixin.py:115} INFO - [2023-06-01 14:53:25,061] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:53:25,112] {logging_mixin.py:115} INFO - [2023-06-01 14:53:25,112] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:53:25,145] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.948 seconds
+[2023-06-01 14:53:35,271] {processor.py:153} INFO - Started process (PID=371) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:35,273] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:53:35,275] {logging_mixin.py:115} INFO - [2023-06-01 14:53:35,275] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:36,154] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:36,202] {logging_mixin.py:115} INFO - [2023-06-01 14:53:36,201] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:53:36,268] {logging_mixin.py:115} INFO - [2023-06-01 14:53:36,268] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:53:36,305] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.040 seconds
+[2023-06-01 14:53:46,411] {processor.py:153} INFO - Started process (PID=377) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:46,413] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:53:46,414] {logging_mixin.py:115} INFO - [2023-06-01 14:53:46,414] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:47,081] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:47,123] {logging_mixin.py:115} INFO - [2023-06-01 14:53:47,122] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:53:47,174] {logging_mixin.py:115} INFO - [2023-06-01 14:53:47,174] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:53:47,200] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.795 seconds
+[2023-06-01 14:53:57,346] {processor.py:153} INFO - Started process (PID=383) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:57,348] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:53:57,351] {logging_mixin.py:115} INFO - [2023-06-01 14:53:57,350] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:58,059] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:53:58,107] {logging_mixin.py:115} INFO - [2023-06-01 14:53:58,105] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:53:58,162] {logging_mixin.py:115} INFO - [2023-06-01 14:53:58,161] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:53:58,190] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.851 seconds
+[2023-06-01 14:54:08,349] {processor.py:153} INFO - Started process (PID=389) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:08,351] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:54:08,353] {logging_mixin.py:115} INFO - [2023-06-01 14:54:08,353] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:09,215] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:09,256] {logging_mixin.py:115} INFO - [2023-06-01 14:54:09,255] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:54:09,299] {logging_mixin.py:115} INFO - [2023-06-01 14:54:09,299] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:54:09,327] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.984 seconds
+[2023-06-01 14:54:19,482] {processor.py:153} INFO - Started process (PID=395) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:19,484] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:54:19,486] {logging_mixin.py:115} INFO - [2023-06-01 14:54:19,486] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:20,245] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:20,275] {logging_mixin.py:115} INFO - [2023-06-01 14:54:20,274] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:54:20,312] {logging_mixin.py:115} INFO - [2023-06-01 14:54:20,312] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:54:20,331] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.858 seconds
+[2023-06-01 14:54:30,441] {processor.py:153} INFO - Started process (PID=401) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:30,443] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:54:30,444] {logging_mixin.py:115} INFO - [2023-06-01 14:54:30,444] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:31,315] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:31,350] {logging_mixin.py:115} INFO - [2023-06-01 14:54:31,350] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:54:31,389] {logging_mixin.py:115} INFO - [2023-06-01 14:54:31,389] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:54:31,413] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.976 seconds
+[2023-06-01 14:54:41,520] {processor.py:153} INFO - Started process (PID=407) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:41,522] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:54:41,523] {logging_mixin.py:115} INFO - [2023-06-01 14:54:41,523] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:42,240] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:42,274] {logging_mixin.py:115} INFO - [2023-06-01 14:54:42,273] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:54:42,316] {logging_mixin.py:115} INFO - [2023-06-01 14:54:42,315] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:54:42,343] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.827 seconds
+[2023-06-01 14:54:52,484] {processor.py:153} INFO - Started process (PID=413) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:52,486] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:54:52,489] {logging_mixin.py:115} INFO - [2023-06-01 14:54:52,488] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:53,157] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:54:53,201] {logging_mixin.py:115} INFO - [2023-06-01 14:54:53,201] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:54:53,261] {logging_mixin.py:115} INFO - [2023-06-01 14:54:53,261] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:54:53,289] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.816 seconds
+[2023-06-01 14:55:03,461] {processor.py:153} INFO - Started process (PID=419) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:03,462] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:55:03,464] {logging_mixin.py:115} INFO - [2023-06-01 14:55:03,464] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:04,164] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:04,201] {logging_mixin.py:115} INFO - [2023-06-01 14:55:04,201] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:55:04,246] {logging_mixin.py:115} INFO - [2023-06-01 14:55:04,246] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:55:04,278] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.827 seconds
+[2023-06-01 14:55:14,429] {processor.py:153} INFO - Started process (PID=425) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:14,431] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:55:14,433] {logging_mixin.py:115} INFO - [2023-06-01 14:55:14,433] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:15,195] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:15,235] {logging_mixin.py:115} INFO - [2023-06-01 14:55:15,233] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:55:15,278] {logging_mixin.py:115} INFO - [2023-06-01 14:55:15,277] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:55:15,304] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.885 seconds
+[2023-06-01 14:55:25,456] {processor.py:153} INFO - Started process (PID=431) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:25,458] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:55:25,466] {logging_mixin.py:115} INFO - [2023-06-01 14:55:25,465] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:26,656] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:26,712] {logging_mixin.py:115} INFO - [2023-06-01 14:55:26,711] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:55:26,778] {logging_mixin.py:115} INFO - [2023-06-01 14:55:26,778] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:55:26,813] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.364 seconds
+[2023-06-01 14:55:36,946] {processor.py:153} INFO - Started process (PID=437) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:36,948] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:55:36,950] {logging_mixin.py:115} INFO - [2023-06-01 14:55:36,949] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:37,824] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:37,880] {logging_mixin.py:115} INFO - [2023-06-01 14:55:37,879] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:55:37,950] {logging_mixin.py:115} INFO - [2023-06-01 14:55:37,949] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:55:37,992] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.052 seconds
+[2023-06-01 14:55:48,186] {processor.py:153} INFO - Started process (PID=443) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:48,188] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:55:48,189] {logging_mixin.py:115} INFO - [2023-06-01 14:55:48,189] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:49,068] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:49,112] {logging_mixin.py:115} INFO - [2023-06-01 14:55:49,111] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:55:49,160] {logging_mixin.py:115} INFO - [2023-06-01 14:55:49,160] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:55:49,186] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.008 seconds
+[2023-06-01 14:55:59,310] {processor.py:153} INFO - Started process (PID=449) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:55:59,311] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:55:59,313] {logging_mixin.py:115} INFO - [2023-06-01 14:55:59,312] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:00,043] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:00,089] {logging_mixin.py:115} INFO - [2023-06-01 14:56:00,089] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:56:00,151] {logging_mixin.py:115} INFO - [2023-06-01 14:56:00,150] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:56:00,180] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.877 seconds
+[2023-06-01 14:56:10,314] {processor.py:153} INFO - Started process (PID=455) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:10,317] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:56:10,320] {logging_mixin.py:115} INFO - [2023-06-01 14:56:10,319] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:11,123] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:11,197] {logging_mixin.py:115} INFO - [2023-06-01 14:56:11,197] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:56:11,240] {logging_mixin.py:115} INFO - [2023-06-01 14:56:11,240] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:56:11,263] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.959 seconds
+[2023-06-01 14:56:21,385] {processor.py:153} INFO - Started process (PID=461) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:21,387] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:56:21,389] {logging_mixin.py:115} INFO - [2023-06-01 14:56:21,389] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:22,138] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:22,174] {logging_mixin.py:115} INFO - [2023-06-01 14:56:22,173] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:56:22,213] {logging_mixin.py:115} INFO - [2023-06-01 14:56:22,213] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:56:22,236] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.860 seconds
+[2023-06-01 14:56:32,371] {processor.py:153} INFO - Started process (PID=467) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:32,373] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:56:32,375] {logging_mixin.py:115} INFO - [2023-06-01 14:56:32,374] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:33,101] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:33,133] {logging_mixin.py:115} INFO - [2023-06-01 14:56:33,132] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:56:33,172] {logging_mixin.py:115} INFO - [2023-06-01 14:56:33,172] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:56:33,195] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.829 seconds
+[2023-06-01 14:56:43,344] {processor.py:153} INFO - Started process (PID=473) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:43,346] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:56:43,352] {logging_mixin.py:115} INFO - [2023-06-01 14:56:43,352] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:44,155] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:44,209] {logging_mixin.py:115} INFO - [2023-06-01 14:56:44,208] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:56:44,264] {logging_mixin.py:115} INFO - [2023-06-01 14:56:44,264] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:56:44,294] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.961 seconds
+[2023-06-01 14:56:54,401] {processor.py:153} INFO - Started process (PID=479) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:54,402] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:56:54,404] {logging_mixin.py:115} INFO - [2023-06-01 14:56:54,403] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:55,318] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:56:55,352] {logging_mixin.py:115} INFO - [2023-06-01 14:56:55,351] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:56:55,393] {logging_mixin.py:115} INFO - [2023-06-01 14:56:55,392] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:56:55,417] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.022 seconds
+[2023-06-01 14:57:05,531] {processor.py:153} INFO - Started process (PID=485) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:05,533] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:57:05,534] {logging_mixin.py:115} INFO - [2023-06-01 14:57:05,534] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:06,331] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:06,377] {logging_mixin.py:115} INFO - [2023-06-01 14:57:06,377] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:57:06,419] {logging_mixin.py:115} INFO - [2023-06-01 14:57:06,419] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:57:06,443] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.918 seconds
+[2023-06-01 14:57:16,546] {processor.py:153} INFO - Started process (PID=491) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:16,549] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:57:16,552] {logging_mixin.py:115} INFO - [2023-06-01 14:57:16,552] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:17,430] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:17,473] {logging_mixin.py:115} INFO - [2023-06-01 14:57:17,472] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:57:17,521] {logging_mixin.py:115} INFO - [2023-06-01 14:57:17,521] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:57:17,554] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.014 seconds
+[2023-06-01 14:57:27,650] {processor.py:153} INFO - Started process (PID=497) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:27,651] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:57:27,653] {logging_mixin.py:115} INFO - [2023-06-01 14:57:27,653] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:28,493] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:28,552] {logging_mixin.py:115} INFO - [2023-06-01 14:57:28,551] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:57:28,622] {logging_mixin.py:115} INFO - [2023-06-01 14:57:28,622] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:57:28,653] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.014 seconds
+[2023-06-01 14:57:38,811] {processor.py:153} INFO - Started process (PID=503) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:38,813] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:57:38,814] {logging_mixin.py:115} INFO - [2023-06-01 14:57:38,814] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:39,677] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:39,731] {logging_mixin.py:115} INFO - [2023-06-01 14:57:39,730] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:57:39,775] {logging_mixin.py:115} INFO - [2023-06-01 14:57:39,774] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:57:39,800] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.994 seconds
+[2023-06-01 14:57:49,873] {processor.py:153} INFO - Started process (PID=509) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:49,874] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:57:49,877] {logging_mixin.py:115} INFO - [2023-06-01 14:57:49,876] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:50,586] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:57:50,628] {logging_mixin.py:115} INFO - [2023-06-01 14:57:50,627] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:57:50,678] {logging_mixin.py:115} INFO - [2023-06-01 14:57:50,678] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:57:50,705] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.836 seconds
+[2023-06-01 14:58:00,827] {processor.py:153} INFO - Started process (PID=515) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:00,829] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:58:00,831] {logging_mixin.py:115} INFO - [2023-06-01 14:58:00,831] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:01,713] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:01,752] {logging_mixin.py:115} INFO - [2023-06-01 14:58:01,751] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:58:01,792] {logging_mixin.py:115} INFO - [2023-06-01 14:58:01,792] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:58:01,815] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.992 seconds
+[2023-06-01 14:58:11,908] {processor.py:153} INFO - Started process (PID=521) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:11,910] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:58:11,912] {logging_mixin.py:115} INFO - [2023-06-01 14:58:11,912] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:12,550] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:12,589] {logging_mixin.py:115} INFO - [2023-06-01 14:58:12,588] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:58:12,654] {logging_mixin.py:115} INFO - [2023-06-01 14:58:12,654] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:58:12,686] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.782 seconds
+[2023-06-01 14:58:22,805] {processor.py:153} INFO - Started process (PID=527) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:22,806] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:58:22,808] {logging_mixin.py:115} INFO - [2023-06-01 14:58:22,808] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:23,339] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:23,373] {logging_mixin.py:115} INFO - [2023-06-01 14:58:23,372] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:58:23,414] {logging_mixin.py:115} INFO - [2023-06-01 14:58:23,414] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:58:23,461] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.659 seconds
+[2023-06-01 14:58:33,564] {processor.py:153} INFO - Started process (PID=533) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:33,565] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:58:33,566] {logging_mixin.py:115} INFO - [2023-06-01 14:58:33,566] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:34,119] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:34,165] {logging_mixin.py:115} INFO - [2023-06-01 14:58:34,164] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:58:34,206] {logging_mixin.py:115} INFO - [2023-06-01 14:58:34,206] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:58:34,245] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.686 seconds
+[2023-06-01 14:58:44,340] {processor.py:153} INFO - Started process (PID=548) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:44,342] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:58:44,343] {logging_mixin.py:115} INFO - [2023-06-01 14:58:44,343] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:45,094] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:45,132] {logging_mixin.py:115} INFO - [2023-06-01 14:58:45,131] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:58:45,167] {logging_mixin.py:115} INFO - [2023-06-01 14:58:45,167] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:58:45,212] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.877 seconds
+[2023-06-01 14:58:55,305] {processor.py:153} INFO - Started process (PID=557) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:55,306] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:58:55,308] {logging_mixin.py:115} INFO - [2023-06-01 14:58:55,307] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:55,990] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:58:56,019] {logging_mixin.py:115} INFO - [2023-06-01 14:58:56,018] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:58:56,052] {logging_mixin.py:115} INFO - [2023-06-01 14:58:56,052] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:58:56,120] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.818 seconds
+[2023-06-01 14:59:06,252] {processor.py:153} INFO - Started process (PID=563) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:06,253] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:59:06,255] {logging_mixin.py:115} INFO - [2023-06-01 14:59:06,255] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:06,977] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:07,005] {logging_mixin.py:115} INFO - [2023-06-01 14:59:07,005] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:59:07,040] {logging_mixin.py:115} INFO - [2023-06-01 14:59:07,040] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:59:07,138] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.891 seconds
+[2023-06-01 14:59:17,245] {processor.py:153} INFO - Started process (PID=569) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:17,246] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:59:17,248] {logging_mixin.py:115} INFO - [2023-06-01 14:59:17,248] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:17,825] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:17,856] {logging_mixin.py:115} INFO - [2023-06-01 14:59:17,855] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:59:17,890] {logging_mixin.py:115} INFO - [2023-06-01 14:59:17,890] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:59:17,965] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.725 seconds
+[2023-06-01 14:59:28,114] {processor.py:153} INFO - Started process (PID=575) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:28,116] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:59:28,118] {logging_mixin.py:115} INFO - [2023-06-01 14:59:28,118] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:29,265] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:29,321] {logging_mixin.py:115} INFO - [2023-06-01 14:59:29,321] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:59:29,395] {logging_mixin.py:115} INFO - [2023-06-01 14:59:29,395] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:59:29,476] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.370 seconds
+[2023-06-01 14:59:39,570] {processor.py:153} INFO - Started process (PID=581) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:39,571] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:59:39,573] {logging_mixin.py:115} INFO - [2023-06-01 14:59:39,573] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:40,226] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:40,259] {logging_mixin.py:115} INFO - [2023-06-01 14:59:40,259] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:59:40,297] {logging_mixin.py:115} INFO - [2023-06-01 14:59:40,297] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:59:40,378] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.813 seconds
+[2023-06-01 14:59:50,470] {processor.py:153} INFO - Started process (PID=587) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:50,471] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 14:59:50,473] {logging_mixin.py:115} INFO - [2023-06-01 14:59:50,473] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:51,268] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 14:59:51,313] {logging_mixin.py:115} INFO - [2023-06-01 14:59:51,312] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 14:59:51,377] {logging_mixin.py:115} INFO - [2023-06-01 14:59:51,377] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 14:59:51,464] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.997 seconds
+[2023-06-01 15:00:01,612] {processor.py:153} INFO - Started process (PID=593) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:01,614] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:00:01,615] {logging_mixin.py:115} INFO - [2023-06-01 15:00:01,615] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:02,261] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:02,294] {logging_mixin.py:115} INFO - [2023-06-01 15:00:02,294] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:00:02,334] {logging_mixin.py:115} INFO - [2023-06-01 15:00:02,334] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:00:02,368] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.762 seconds
+[2023-06-01 15:00:12,484] {processor.py:153} INFO - Started process (PID=599) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:12,485] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:00:12,487] {logging_mixin.py:115} INFO - [2023-06-01 15:00:12,486] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:13,115] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:13,154] {logging_mixin.py:115} INFO - [2023-06-01 15:00:13,153] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:00:13,195] {logging_mixin.py:115} INFO - [2023-06-01 15:00:13,194] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:00:13,237] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.756 seconds
+[2023-06-01 15:00:23,331] {processor.py:153} INFO - Started process (PID=605) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:23,332] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:00:23,334] {logging_mixin.py:115} INFO - [2023-06-01 15:00:23,334] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:23,930] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:23,967] {logging_mixin.py:115} INFO - [2023-06-01 15:00:23,967] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:00:24,012] {logging_mixin.py:115} INFO - [2023-06-01 15:00:24,012] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:00:24,036] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.709 seconds
+[2023-06-01 15:00:34,131] {processor.py:153} INFO - Started process (PID=611) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:34,132] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:00:34,134] {logging_mixin.py:115} INFO - [2023-06-01 15:00:34,134] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:34,861] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:34,905] {logging_mixin.py:115} INFO - [2023-06-01 15:00:34,904] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:00:34,944] {logging_mixin.py:115} INFO - [2023-06-01 15:00:34,944] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:00:34,968] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.842 seconds
+[2023-06-01 15:00:45,065] {processor.py:153} INFO - Started process (PID=617) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:45,067] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:00:45,068] {logging_mixin.py:115} INFO - [2023-06-01 15:00:45,068] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:45,649] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:45,688] {logging_mixin.py:115} INFO - [2023-06-01 15:00:45,687] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:00:45,736] {logging_mixin.py:115} INFO - [2023-06-01 15:00:45,736] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:00:45,762] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.701 seconds
+[2023-06-01 15:00:55,847] {processor.py:153} INFO - Started process (PID=623) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:55,848] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:00:55,850] {logging_mixin.py:115} INFO - [2023-06-01 15:00:55,850] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:56,756] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:00:56,828] {logging_mixin.py:115} INFO - [2023-06-01 15:00:56,827] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:00:56,897] {logging_mixin.py:115} INFO - [2023-06-01 15:00:56,897] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:00:56,922] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.084 seconds
+[2023-06-01 15:01:07,021] {processor.py:153} INFO - Started process (PID=629) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:07,023] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:01:07,024] {logging_mixin.py:115} INFO - [2023-06-01 15:01:07,024] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:07,649] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:07,685] {logging_mixin.py:115} INFO - [2023-06-01 15:01:07,685] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:01:07,732] {logging_mixin.py:115} INFO - [2023-06-01 15:01:07,732] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:01:07,762] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.745 seconds
+[2023-06-01 15:01:17,932] {processor.py:153} INFO - Started process (PID=635) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:17,934] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:01:17,935] {logging_mixin.py:115} INFO - [2023-06-01 15:01:17,935] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:18,599] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:18,634] {logging_mixin.py:115} INFO - [2023-06-01 15:01:18,633] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:01:18,671] {logging_mixin.py:115} INFO - [2023-06-01 15:01:18,671] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:01:18,692] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.769 seconds
+[2023-06-01 15:01:28,788] {processor.py:153} INFO - Started process (PID=641) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:28,789] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:01:28,791] {logging_mixin.py:115} INFO - [2023-06-01 15:01:28,790] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:29,539] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:29,641] {logging_mixin.py:115} INFO - [2023-06-01 15:01:29,640] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:01:29,798] {logging_mixin.py:115} INFO - [2023-06-01 15:01:29,797] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:01:29,899] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.116 seconds
+[2023-06-01 15:01:40,082] {processor.py:153} INFO - Started process (PID=647) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:40,083] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:01:40,084] {logging_mixin.py:115} INFO - [2023-06-01 15:01:40,084] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:40,733] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:40,770] {logging_mixin.py:115} INFO - [2023-06-01 15:01:40,770] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:01:40,808] {logging_mixin.py:115} INFO - [2023-06-01 15:01:40,808] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:01:40,838] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.759 seconds
+[2023-06-01 15:01:50,928] {processor.py:153} INFO - Started process (PID=653) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:50,930] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:01:50,932] {logging_mixin.py:115} INFO - [2023-06-01 15:01:50,931] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:51,682] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:01:51,718] {logging_mixin.py:115} INFO - [2023-06-01 15:01:51,717] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:01:51,764] {logging_mixin.py:115} INFO - [2023-06-01 15:01:51,764] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:01:51,789] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.867 seconds
+[2023-06-01 15:02:01,936] {processor.py:153} INFO - Started process (PID=659) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:01,938] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:02:01,943] {logging_mixin.py:115} INFO - [2023-06-01 15:02:01,942] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:03,089] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:03,140] {logging_mixin.py:115} INFO - [2023-06-01 15:02:03,139] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:02:03,209] {logging_mixin.py:115} INFO - [2023-06-01 15:02:03,209] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:02:03,243] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.314 seconds
+[2023-06-01 15:02:13,348] {processor.py:153} INFO - Started process (PID=665) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:13,349] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:02:13,350] {logging_mixin.py:115} INFO - [2023-06-01 15:02:13,350] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:13,917] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:13,951] {logging_mixin.py:115} INFO - [2023-06-01 15:02:13,950] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:02:13,983] {logging_mixin.py:115} INFO - [2023-06-01 15:02:13,983] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:02:14,004] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.660 seconds
+[2023-06-01 15:02:24,087] {processor.py:153} INFO - Started process (PID=671) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:24,089] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:02:24,091] {logging_mixin.py:115} INFO - [2023-06-01 15:02:24,090] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:24,660] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:24,705] {logging_mixin.py:115} INFO - [2023-06-01 15:02:24,704] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:02:24,753] {logging_mixin.py:115} INFO - [2023-06-01 15:02:24,753] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:02:24,778] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.695 seconds
+[2023-06-01 15:02:34,926] {processor.py:153} INFO - Started process (PID=677) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:34,927] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:02:34,929] {logging_mixin.py:115} INFO - [2023-06-01 15:02:34,929] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:35,506] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:35,540] {logging_mixin.py:115} INFO - [2023-06-01 15:02:35,539] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:02:35,577] {logging_mixin.py:115} INFO - [2023-06-01 15:02:35,577] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:02:35,599] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.679 seconds
+[2023-06-01 15:02:45,696] {processor.py:153} INFO - Started process (PID=683) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:45,697] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:02:45,699] {logging_mixin.py:115} INFO - [2023-06-01 15:02:45,698] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:46,196] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:46,227] {logging_mixin.py:115} INFO - [2023-06-01 15:02:46,227] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:02:46,265] {logging_mixin.py:115} INFO - [2023-06-01 15:02:46,265] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:02:46,286] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.593 seconds
+[2023-06-01 15:02:56,359] {processor.py:153} INFO - Started process (PID=689) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:56,360] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:02:56,360] {logging_mixin.py:115} INFO - [2023-06-01 15:02:56,360] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:56,854] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:02:56,884] {logging_mixin.py:115} INFO - [2023-06-01 15:02:56,884] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:02:56,916] {logging_mixin.py:115} INFO - [2023-06-01 15:02:56,916] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:02:56,937] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.583 seconds
+[2023-06-01 15:03:07,106] {processor.py:153} INFO - Started process (PID=695) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:07,109] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:03:07,119] {logging_mixin.py:115} INFO - [2023-06-01 15:03:07,114] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:08,091] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:08,127] {logging_mixin.py:115} INFO - [2023-06-01 15:03:08,126] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:03:08,165] {logging_mixin.py:115} INFO - [2023-06-01 15:03:08,165] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:03:08,186] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.087 seconds
+[2023-06-01 15:03:18,289] {processor.py:153} INFO - Started process (PID=701) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:18,290] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:03:18,292] {logging_mixin.py:115} INFO - [2023-06-01 15:03:18,292] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:18,902] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:18,934] {logging_mixin.py:115} INFO - [2023-06-01 15:03:18,933] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:03:18,970] {logging_mixin.py:115} INFO - [2023-06-01 15:03:18,970] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:03:18,997] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.713 seconds
+[2023-06-01 15:03:29,141] {processor.py:153} INFO - Started process (PID=707) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:29,143] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:03:29,144] {logging_mixin.py:115} INFO - [2023-06-01 15:03:29,144] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:30,103] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:30,134] {logging_mixin.py:115} INFO - [2023-06-01 15:03:30,133] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:03:30,173] {logging_mixin.py:115} INFO - [2023-06-01 15:03:30,173] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:03:30,197] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.064 seconds
+[2023-06-01 15:03:40,330] {processor.py:153} INFO - Started process (PID=713) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:40,331] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:03:40,334] {logging_mixin.py:115} INFO - [2023-06-01 15:03:40,333] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:41,686] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:41,741] {logging_mixin.py:115} INFO - [2023-06-01 15:03:41,740] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:03:41,814] {logging_mixin.py:115} INFO - [2023-06-01 15:03:41,813] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:03:41,852] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.535 seconds
+[2023-06-01 15:03:52,133] {processor.py:153} INFO - Started process (PID=719) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:52,156] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:03:52,178] {logging_mixin.py:115} INFO - [2023-06-01 15:03:52,177] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:54,335] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:03:54,399] {logging_mixin.py:115} INFO - [2023-06-01 15:03:54,397] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:03:54,455] {logging_mixin.py:115} INFO - [2023-06-01 15:03:54,455] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:03:54,484] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 2.369 seconds
+[2023-06-01 15:04:04,773] {processor.py:153} INFO - Started process (PID=725) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:04,778] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:04:04,781] {logging_mixin.py:115} INFO - [2023-06-01 15:04:04,781] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:06,463] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:06,504] {logging_mixin.py:115} INFO - [2023-06-01 15:04:06,504] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:04:06,643] {logging_mixin.py:115} INFO - [2023-06-01 15:04:06,642] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:04:06,710] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.955 seconds
+[2023-06-01 15:04:16,913] {processor.py:153} INFO - Started process (PID=731) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:16,914] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:04:16,916] {logging_mixin.py:115} INFO - [2023-06-01 15:04:16,916] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:18,288] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:18,353] {logging_mixin.py:115} INFO - [2023-06-01 15:04:18,352] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:04:18,420] {logging_mixin.py:115} INFO - [2023-06-01 15:04:18,420] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:04:18,455] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.548 seconds
+[2023-06-01 15:04:28,602] {processor.py:153} INFO - Started process (PID=737) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:28,604] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:04:28,606] {logging_mixin.py:115} INFO - [2023-06-01 15:04:28,606] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:29,609] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:29,678] {logging_mixin.py:115} INFO - [2023-06-01 15:04:29,677] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:04:29,763] {logging_mixin.py:115} INFO - [2023-06-01 15:04:29,762] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:04:29,805] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.218 seconds
+[2023-06-01 15:04:39,959] {processor.py:153} INFO - Started process (PID=743) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:39,961] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:04:39,963] {logging_mixin.py:115} INFO - [2023-06-01 15:04:39,963] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:41,187] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:41,337] {logging_mixin.py:115} INFO - [2023-06-01 15:04:41,336] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:04:41,462] {logging_mixin.py:115} INFO - [2023-06-01 15:04:41,461] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:04:41,533] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.585 seconds
+[2023-06-01 15:04:51,724] {processor.py:153} INFO - Started process (PID=749) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:51,726] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:04:51,727] {logging_mixin.py:115} INFO - [2023-06-01 15:04:51,727] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:52,461] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:04:52,497] {logging_mixin.py:115} INFO - [2023-06-01 15:04:52,497] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:04:52,546] {logging_mixin.py:115} INFO - [2023-06-01 15:04:52,546] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:04:52,580] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.864 seconds
+[2023-06-01 15:05:02,704] {processor.py:153} INFO - Started process (PID=755) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:02,706] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:05:02,708] {logging_mixin.py:115} INFO - [2023-06-01 15:05:02,707] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:04,298] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:04,398] {logging_mixin.py:115} INFO - [2023-06-01 15:05:04,396] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:05:04,556] {logging_mixin.py:115} INFO - [2023-06-01 15:05:04,556] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:05:04,631] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 1.934 seconds
+[2023-06-01 15:05:14,786] {processor.py:153} INFO - Started process (PID=761) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:14,788] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:05:14,790] {logging_mixin.py:115} INFO - [2023-06-01 15:05:14,789] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:15,644] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:15,694] {logging_mixin.py:115} INFO - [2023-06-01 15:05:15,693] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:05:15,737] {logging_mixin.py:115} INFO - [2023-06-01 15:05:15,737] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:05:15,757] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.977 seconds
+[2023-06-01 15:05:25,860] {processor.py:153} INFO - Started process (PID=767) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:25,862] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:05:25,863] {logging_mixin.py:115} INFO - [2023-06-01 15:05:25,863] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:26,455] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:26,483] {logging_mixin.py:115} INFO - [2023-06-01 15:05:26,483] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:05:26,514] {logging_mixin.py:115} INFO - [2023-06-01 15:05:26,513] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:05:26,533] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.679 seconds
+[2023-06-01 15:05:36,627] {processor.py:153} INFO - Started process (PID=773) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:36,628] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:05:36,629] {logging_mixin.py:115} INFO - [2023-06-01 15:05:36,629] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:37,193] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:37,232] {logging_mixin.py:115} INFO - [2023-06-01 15:05:37,231] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:05:37,269] {logging_mixin.py:115} INFO - [2023-06-01 15:05:37,269] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:05:37,291] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.670 seconds
+[2023-06-01 15:05:47,384] {processor.py:153} INFO - Started process (PID=779) to work on /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:47,386] {processor.py:641} INFO - Processing file /opt/airflow/dags/ETL_Bitcoin.py for tasks to queue
+[2023-06-01 15:05:47,387] {logging_mixin.py:115} INFO - [2023-06-01 15:05:47,387] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:48,182] {processor.py:651} INFO - DAG(s) dict_keys(['Bitcoin_ETL']) retrieved from /opt/airflow/dags/ETL_Bitcoin.py
+[2023-06-01 15:05:48,225] {logging_mixin.py:115} INFO - [2023-06-01 15:05:48,224] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-06-01 15:05:48,297] {logging_mixin.py:115} INFO - [2023-06-01 15:05:48,296] {dag.py:2972} INFO - Setting next_dagrun for Bitcoin_ETL to 2023-06-01T00:00:00+00:00, run_after=2023-06-02T00:00:00+00:00
+[2023-06-01 15:05:48,327] {processor.py:161} INFO - Processing /opt/airflow/dags/ETL_Bitcoin.py took 0.948 seconds
